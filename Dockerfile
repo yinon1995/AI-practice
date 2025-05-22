@@ -13,3 +13,6 @@ COPY . .
 
 # Set default command to run your main script
 CMD ["python", "main.py"]
+
+# To run the regression example instead, use:
+# docker run --rm ai-exercises python regression.py

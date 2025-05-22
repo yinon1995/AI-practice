@@ -14,3 +14,8 @@ venv/
 
 # Environment variables
 .env
+
+# Additional common Python ignores
+*.log
+*.env.*
+.DS_Store
